@@ -22,5 +22,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 <img width="12" />
-<img src="https://images.credly.com/size/12x12/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"  height="40">
+
+<img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="40" >
 </div>
