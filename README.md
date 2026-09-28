@@ -1,10 +1,10 @@
 <h1 data-importer="text" align="left">Eai blz?, Bem-vindo!!!</h1>
 
 
-<p data-importer="text" align="left">Meu nome é João Pedro, sou Estudante da FATEC de registro.</p>
+<p data-importer="text" align="left">Segue abaixo com os repositorios das aulas de DW1.</p>
 
 
-<h2 data-importer="text" align="left">Segue abaixo com os repositorios das aulas de DW1.</h2>
+<h2 data-importer="text" align="left">Meu nome é João Pedro, sou Estudante da FATEC de registro.</h2>
 
 
 
