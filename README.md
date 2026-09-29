@@ -11,6 +11,27 @@
 
 
 <h2 data-importer="text" align="left"></h2>
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo Roxo Escuro --/>
+  <rect width="100%" height="100%" fill="#1a0b36" />
+  
+  <!-- Texto Central com Efeito de Pulso -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="white">
+    SEU NOME AQUI
+    
+    <!-- Animação de pulso sutil (opacidade) -->
+    <animate
+      attributeName="opacity"
+      values="1; 0.6; 1"
+      dur="6s"
+      repeatCount="indefinite" />
+  </text>
+  
+  <!-- Subtítulo (opcional) -->
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#a080c0">
+    Seu Subtítulo ou Link
+  </text>
+</svg>
 
 
 <div data-importer="techs" align="left">
