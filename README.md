@@ -12,12 +12,6 @@
 
 <h2 data-importer="text" align="left"></h2>
 
-  
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#a080c0">
-    Seu Subtítulo ou Link
-  </text>
-</svg>
-
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
