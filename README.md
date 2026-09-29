@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Eai blz?, Bem-vindo!!!</h1>
+<h1 data-importer="text" align="left">Seja Bem-vindo!!!</h1>
 
 
 
