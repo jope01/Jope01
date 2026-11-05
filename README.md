@@ -1,10 +1,10 @@
-<h1 data-importer="text" align="center">👋 Seja Bem-vindo!!!</h1>
+<h1 data-importer="text" align="center"> Seja Bem-vindo!!!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;Criando+projetos+com+HTML+e+CSS" alt="Typing SVG" />
 </p>
 
-<h2 data-importer="text" align="left">📚 Segue abaixo com os repositorios das aulas de DW1.</h2>
+<h2 data-importer="text" align="left">📚 Segue abaixo com os repositorios.</h2>
 
 <p data-importer="text" align="left">
   Este perfil reúne meus estudos, exercícios e projetos de <b>Desenvolvimento Web 1 (DW1)</b>.
