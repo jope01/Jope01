@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true" height="160" alt="Linguagens mais usadas" />
 </p>
 
-> 🔧 Troque `SEU-USUARIO` pelo seu nome de usuário do GitHub.
+> 🔧`jope01`
 
 ---
 
