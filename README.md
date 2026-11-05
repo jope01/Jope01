@@ -4,11 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;"alt="Typing SVG" />
 </p>
 
-<h2 data-importer="text" align="left">📚 Segue abaixo com os repositorios.</h2>
+<h2 data-importer="text" align="left">📊 Estatísticas do GitHub</h2>
 
-<p data-importer="text" align="left">
-  Este perfil reúne meus estudos, exercícios e projetos de <b>Desenvolvimento Web 1 (DW1)</b>.
-  Aqui você encontra o que estou aprendendo sobre estrutura de páginas, estilização, design de interfaces e boas práticas de código.
+<p align="left">
+  <img src="https://img.shields.io/github/followers/jope01?style=for-the-badge&logo=github&label=Seguidores&color=1D546D" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/jope01?style=for-the-badge&logo=github&label=Estrelas&color=5F9598" alt="Estrelas" />
+  <img src="https://img.shields.io/github/search/jope01/jope01/repos?style=for-the-badge&logo=github&label=Perfil&color=061E29" alt="Perfil" />
+</p>
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/5F9598/jope01" alt="Gráfico de contribuições de jope01" width="700" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=5F9598&ring=5F9598&fire=5F9598&currStreakLabel=5F9598" alt="Sequência de contribuições" />
 </p>
 
 ---
