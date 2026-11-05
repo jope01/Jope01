@@ -72,9 +72,9 @@
 <h2 data-importer="text" align="left">📫 Vamos conversar?</h2>
 
 <p align="left">
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-Contato-5F9598?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jope01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/jpe_01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:jpedrorodriguesribeiro@gmail.com"><img src="https://img.shields.io/badge/Email-5F9598?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><i>✨ Obrigado por passar por aqui! Bons estudos e bom código! ✨</i></p>
