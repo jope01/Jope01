@@ -19,7 +19,6 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🦉 **LOGIC** | Landing page da empresa *Laboratório de Orientação, Games e Interação em Código*, que ensina algoritmos e programação orientada a objetos criando jogos. | HTML5 • CSS3 |
 | 🧠 **MEC - Mentes em Códigos** | Landing page do projeto integrador (Landing-page-P.I): um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
 
 ---
