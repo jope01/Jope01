@@ -1,17 +1,38 @@
-<h1 data-importer="text" align="left">Seja Bem-vindo!!!</h1>
+<h1 data-importer="text" align="center">👋 Seja Bem-vindo!!!</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;Criando+projetos+com+HTML+e+CSS" alt="Typing SVG" />
+</p>
 
+<h2 data-importer="text" align="left">📚 Segue abaixo com os repositorios das aulas de DW1.</h2>
 
+<p data-importer="text" align="left">
+  Este perfil reúne meus estudos, exercícios e projetos de <b>Desenvolvimento Web 1 (DW1)</b>.
+  Aqui você encontra o que estou aprendendo sobre estrutura de páginas, estilização, design de interfaces e boas práticas de código.
+</p>
 
-<h2 data-importer="text" align="left">Segue abaixo com os repositorios das aulas de DW1.</h2>
+---
 
+<h2 data-importer="text" align="left">🧑‍💻 Sobre mim</h2>
 
+- 🎓 Estudando Desenvolvimento Web
+- 🌱 Aprendendo a criar páginas semânticas, responsivas e bonitas
+- 🎮 Interesse em educação, programação e criação de jogos
+- 🎨 Gosto de transformar ideias de design (Figma) em código
+- 🤝 Aberto a trocar ideias e aprender com a comunidade
 
-<p data-importer="text" align="left"></p>
+---
 
+<h2 data-importer="text" align="left">🚀 Projetos em destaque</h2>
 
-<h2 data-importer="text" align="left"></h2>
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🦉 **LOGIC** | Landing page da empresa *Laboratório de Orientação, Games e Interação em Código*, que ensina algoritmos e programação orientada a objetos criando jogos. | HTML5 • CSS3 |
+| 🧠 **MEC - Mentes em Códigos** | Landing page do projeto integrador (Landing-page-P.I): um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
 
+---
+
+<h2 data-importer="text" align="left">🛠️ Tecnologias e ferramentas</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -24,3 +45,45 @@
 
 <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="60" >
 </div>
+
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+<h2 data-importer="text" align="left">🎯 Em que estou focado</h2>
+
+- ✅ HTML semântico e acessível
+- ✅ CSS puro, organizado e responsivo (mobile first)
+- ✅ Identidade visual: paletas de cores, tipografia e consistência
+- 🔜 Aprofundar em JavaScript e lógica de programação
+
+---
+
+<h2 data-importer="text" align="left">📊 Estatísticas do GitHub</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_border=true" height="160" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true" height="160" alt="Linguagens mais usadas" />
+</p>
+
+> 🔧 Troque `SEU-USUARIO` pelo seu nome de usuário do GitHub.
+
+---
+
+<h2 data-importer="text" align="left">📫 Vamos conversar?</h2>
+
+<p align="left">
+  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-Contato-5F9598?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center"><i>✨ Obrigado por passar por aqui! Bons estudos e bom código! ✨</i></p>
