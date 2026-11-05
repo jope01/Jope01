@@ -13,14 +13,6 @@
 
 ---
 
-<h2 data-importer="text" align="left">🧑‍💻 Sobre mim</h2>
-
-- 🎓 Estudando Desenvolvimento Web
-- 🌱 Aprendendo a criar páginas semânticas, responsivas e bonitas
-- 🎮 Interesse em educação, programação e criação de jogos
-- 🎨 Gosto de transformar ideias de design (Figma) em código
-- 🤝 Aberto a trocar ideias e aprender com a comunidade
-
 ---
 
 <h2 data-importer="text" align="left">🚀 Projetos em destaque</h2>
