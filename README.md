@@ -51,7 +51,7 @@
 
 <h2 data-importer="text" align="left">🎯 Em que estou focado</h2>
 
-- ✅ HTML semântico e acessível
+- ✅ HTML 
 - ✅ CSS puro, organizado e responsivo (mobile first)
 - ✅ Identidade visual: paletas de cores, tipografia e consistência
 - 🔜 Aprofundar em JavaScript e lógica de programação
@@ -77,4 +77,4 @@
   <a href="mailto:jpedrorodriguesribeiro@gmail.com"><img src="https://img.shields.io/badge/Email-5F9598?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>✨ Obrigado por passar por aqui! Bons estudos e bom código! ✨</i></p>
+<p align="center"><i> Obrigado por passar por aqui! Bons estudos e bom código! </i></p>
