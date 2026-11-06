@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=f1f1f1&ring=f1f1f1&fire=5F9598&currStreakLabel=f1f1f1" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=f1f1f1" alt="Sequência de contribuições" />
 </p>
 
 
@@ -23,7 +23,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🧠 **MEC - Mentes em Códigos** | Landing page do projeto integrador (Landing-page-P.I): um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
+| 🧠 **MEC - Mentes em Códigos** | Landing page do projeto integrador: um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
 
 ---
 
