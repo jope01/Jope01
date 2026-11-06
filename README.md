@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="https://ghchart.rshah.org/f1f1f1/jope01" alt="Gráfico de contribuições de jope01" width="700" />
+  <img src="https://ghchart.rshah.org/000000/jope01" alt="Gráfico de contribuições de jope01" width="700" />
 </p>
 
 <p align="left">
