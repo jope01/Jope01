@@ -7,11 +7,11 @@
 
 
 <p align="left">
-  <img src="https://ghchart.rshah.org/5F9598/jope01" alt="Gráfico de contribuições de jope01" width="700" />
+  <img src="https://ghchart.rshah.org/f1f1f1/jope01" alt="Gráfico de contribuições de jope01" width="700" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=5F9598&ring=5F9598&fire=5F9598&currStreakLabel=5F9598" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=f1f1f1&ring=f1f1f1&fire=5F9598&currStreakLabel=f1f1f1" alt="Sequência de contribuições" />
 </p>
 
 
