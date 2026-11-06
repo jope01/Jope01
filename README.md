@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;"alt="Typing SVG" />
 </p>
 
-<h2 data-importer="text" align="left">📊 Estatísticas do GitHub</h2>
 
 
 <p align="left">
