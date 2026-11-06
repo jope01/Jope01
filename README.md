@@ -6,11 +6,6 @@
 
 <h2 data-importer="text" align="left">📊 Estatísticas do GitHub</h2>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/jope01?style=for-the-badge&logo=github&label=Seguidores&color=1D546D" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/jope01?style=for-the-badge&logo=github&label=Estrelas&color=5F9598" alt="Estrelas" />
-  <img src="https://img.shields.io/github/search/jope01/jope01/repos?style=for-the-badge&logo=github&label=Perfil&color=061E29" alt="Perfil" />
-</p>
 
 <p align="left">
   <img src="https://ghchart.rshah.org/5F9598/jope01" alt="Gráfico de contribuições de jope01" width="700" />
