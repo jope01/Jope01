@@ -6,18 +6,15 @@
 
 <h2 data-importer="text" align="left">📊 Estatísticas do GitHub</h2>
 
+
 <p align="left">
-  <img src="https://img.shields.io/github/followers/jope01?style=for-the-badge&logo=github&label=Seguidores&color=000000&labelColor=1D546D" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/jope01?style=for-the-badge&logo=github&label=Estrelas&color=000000&labelColor=1D546D" alt="Estrelas" />
+  <img src="https://ghchart.rshah.org/5F9598/jope01" alt="Gráfico de contribuições de jope01" width="700" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jope01&background=000000&hide_border=true&stroke=A8E6F0&ring=A8E6F0&fire=A8E6F0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A8E6F0&sideLabels=A8E6F0&dates=A8E6F0" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=5F9598&ring=5F9598&fire=5F9598&currStreakLabel=5F9598" alt="Sequência de contribuições" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jope01&bg_color=000000&color=A8E6F0&line=A8E6F0&point=FFFFFF&area=true&area_color=A8E6F0&hide_border=true&title=Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" width="100%" />
-</p>
 
 ---
 
