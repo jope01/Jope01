@@ -1,7 +1,9 @@
-<h1 data-importer="text" align="center"> Seja Bem-vindo!!!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&duration=99999&pause=99999&color=ffffff&center=true&vCenter=true&width=600&lines=Seja+Bem-vindo!!!" alt="Seja Bem-vindo!!!" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&duration=3000&pause=1000&color=f1f1f1&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=f1f1f1&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web;Apaixonado+por+programa%C3%A7%C3%A3o+e+jogos;"alt="Typing SVG" />
 </p>
 
 
