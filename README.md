@@ -8,8 +8,8 @@
 
 
 
-<p align="left">
-  <img src="https://ghchart.rshah.org/000000/jope01" alt="Gráfico de contribuições de jope01" width="700" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
 </p>
 
 <p align="left">
