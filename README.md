@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=061E29&ring=061E29&fire=061E29&currStreakLabel=f1f1f1" alt="Sequência de contribuições" />
 </p>
 
