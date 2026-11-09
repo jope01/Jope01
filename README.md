@@ -21,15 +21,15 @@
 
 ---
 
-<h2 data-importer="text" align="left">🚀 Projetos em destaque</h2>
+<h2 data-importer="text" align="left"> Projetos em destaque</h2>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🧠 **MEC - Mentes em Códigos** | Landing page do projeto integrador: um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
+|  **MEC - Mentes em Códigos** | Landing page do projeto integrador: um jogo que ensina programação de forma prática e divertida. | HTML5 • CSS3 |
 
 ---
 
-<h2 data-importer="text" align="left">🛠️ Tecnologias e ferramentas</h2>
+<h2 data-importer="text" align="left"> Tecnologias e ferramentas</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -55,19 +55,19 @@
 
 ---
 
-<h2 data-importer="text" align="left">🎯 Em que estou focado</h2>
+<h2 data-importer="text" align="left"> Em que estou focado</h2>
 
-- ✅ HTML 
-- ✅ CSS puro, organizado e responsivo (mobile first)
-- ✅ Identidade visual: paletas de cores, tipografia e consistência
-- 🔜 Aprofundar em JavaScript e lógica de programação
-
----
-
+-  HTML 
+-  CSS puro, organizado e responsivo (mobile first)
+-  Identidade visual: paletas de cores, tipografia e consistência
+-  Aprofundar em JavaScript e lógica de programação
 
 ---
 
-<h2 data-importer="text" align="left">📫 Vamos conversar?</h2>
+
+---
+
+<h2 data-importer="text" align="left"> Vamos conversar?</h2>
 
 <p align="left">
   <a href="https://github.com/jope01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
