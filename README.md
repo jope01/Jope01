@@ -27,7 +27,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **MEC - Mentes em Códigos** | Serious game 2D (RPG/plataforma) e plataforma web criados para ensinar Programação Orientada a Objetos (POO) de forma prática e interativa. | HTML5 • CSS3 • JavaScript • Bootstrap • POO |
+| **MEC - Mentes em Códigos** | Serious game 2D (RPG/plataforma) e plataforma web criados para ensinar Programação Orientada a Objetos (POO) de forma prática e interativa. | HTML5 • CSS3 • JavaScript • Bootstrap |
 
 
 ---
