@@ -14,9 +14,6 @@
   <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=jope01&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Sequência de contribuições" />
-</p>
 
 ---
 
