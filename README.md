@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=700&size=32&duration=1&pause=99999&color=F3F4F4&center=true&vCenter=true&width=600&lines=Seja+Bem-vindo!!!" alt="Seja Bem-vindo!!!" />
 </p>
@@ -12,10 +14,9 @@
   <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jope01&theme=transparent&hide_border=true&stroke=061E29&ring=061E29&fire=061E29&currStreakLabel=f1f1f1" alt="Sequência de contribuições" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=jope01&background=000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Sequência de contribuições" />
 </p>
-
 
 ---
 
@@ -77,3 +78,5 @@
 </p>
 
 <p align="center"><i> Obrigado por passar por aqui! Bons estudos e bom código! </i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
