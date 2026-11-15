@@ -35,7 +35,7 @@
 <h2 align="left"> Tecnologias, ferramentas e certificações</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,c,mysql,git,github,vscode,figma,aws" height="55" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql,git,github,vscode,figma,aws" height="55" alt="Tech Stack" />
   <br><br>
   <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="70" alt="Badge Credly 1" />
   <img width="12" />
