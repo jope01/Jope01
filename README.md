@@ -60,7 +60,7 @@
 
 <h2 align="left"> Em que estou focado</h2>
 
-- **Desenvolvimento Full Stack & POO:** Aprofundando em JavaScript, Java, Python e arquitetura de sistemas orientados a objetos.
+- **Desenvolvimento Full Stack & POO:** 
 - **Banco de Dados:** Modelagem conceitual e lógica (MER/DER), álgebra relacional e consultas SQL.
 - **Design & Front-end:** Criação de interfaces responsivas (*mobile first*) com identidade visual consistente e paletas de alto contraste.
 - **Infraestrutura & Nuvem:** Fundamentos de redes (Cisco) e serviços em nuvem (AWS).
