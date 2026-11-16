@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061E29,100:1D546D&height=160&section=header&text=João%20Pedro&fontSize=39&fontColor=F3F4F4&fontAlignY=40&desc=Desenvolvimento%20Multiplataforma%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Redes&descAlignY=68&descColor=5F9598" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvimento+de+Software+Multiplataforma;Redes+Cisco+%26+Infraestrutura+em+Nuvem;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=cinzel&weight=600&size=22&duration=3000&pause=1000&color=F1F1F1&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvimento+de+Software+Multiplataforma;Redes+Cisco+%26+Infraestrutura+em+Nuvem;" alt="Typing SVG" />
 </p>
 
 <p align="center">
