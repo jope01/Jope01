@@ -7,10 +7,6 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jope01&color=000000&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visitas" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
 </p>
 
