@@ -1,10 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=header&text=João%20Pedro&fontSize=39&fontColor=f1f1f1&fontAlignY=40&desc=&descAlignY=68&descColor=000000" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061E29,100:1D546D&height=160&section=header&text=João%20Pedro&fontSize=39&fontColor=F3F4F4&fontAlignY=40&desc=Desenvolvimento%20Multiplataforma%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Redes&descAlignY=68&descColor=5F9598" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=600&size=22&duration=3000&pause=1000&color=f1f1f1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!!!;Desenvolvimento+Multiplataforma;UI%2FUX+Design;Redes+de+Computadores+%26+Cloud;Transformando+ideias+em+c%C3%B3digo;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=600&size=22&duration=3000&pause=1000&color=5F9598&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvimento+de+Software+Multiplataforma;Redes+Cisco+%26+Infraestrutura+em+Nuvem;" alt="Typing SVG" />
 </p>
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jope01/jope01/output/snake-dark.svg" alt="Animação de cobra" />
@@ -74,4 +72,4 @@
 
 <p align="center"><i> Obrigado por passar por aqui! Bons estudos e bom código! </i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D546D,100:061E29&height=120&section=footer" />
